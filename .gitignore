@@ -1,9 +1,0 @@
-#Folder
-Application/node_modules/
-Server/node_modules/
-servingBERT/savemodel/variables/
-
-#File
-*.log
-*.lock
-data2mongoose.js
