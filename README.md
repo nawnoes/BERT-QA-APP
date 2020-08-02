@@ -15,18 +15,19 @@ App, Server, BERT QA serving 구현
 
 ### 3. 서비스 화면 
 #### 3.1 App Intro  
-![](./images/app_system.png){width=200}
-
+<div style="width:150px">
+![](./images/app_system.png)
+</div>
 #### 3.2 App Navigation
-![](./images/app_nav.png){width=200}
+![](./images/app_nav.png)
 #### 3.3 BERT MRC main
-![](./images/app_mrc_main.png){width=200}
+![](./images/app_mrc_main.png)
 #### 3.4 BERT MRC 
 서버로부터 임의의 지문과 질문 데이터를 받음.
-![](./images/app_mrc_get_data.png){width=200}
+![](./images/app_mrc_get_data.png)
 #### 3.5 
 지문과 질문 데이터에 대한 MRC 결과 
-![](./images/app_mrc_result.png){width=200}
+![](./images/app_mrc_result.png)
 
 
 ### References
