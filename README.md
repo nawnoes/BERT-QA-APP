@@ -14,19 +14,14 @@ App, Server, BERT QA serving 구현
 - etc: tensorflow
 
 ### 3. 서비스 화면 
-#### 3.1 App Intro  
+#### 3.1 App Intro   
 <img src="./images/app_system.png" width=250>
+<img src="./images/app_nav.png" width=250>
 
-#### 3.2 App Navigation
-![](./images/app_nav.png)
-#### 3.3 BERT MRC main
-![](./images/app_mrc_main.png)
-#### 3.4 BERT MRC 
-서버로부터 임의의 지문과 질문 데이터를 받음.
-![](./images/app_mrc_get_data.png)
-#### 3.5 
-지문과 질문 데이터에 대한 MRC 결과 
-![](./images/app_mrc_result.png)
+#### 3.2 BERT MRC
+<img src="./images/app_mrc_main.png" width=250>
+<img src="./images/app_mrc_get_data.png" width=250>
+<img src="./images/app_mrc_result.png" width=250>
 
 
 ### References
