@@ -15,7 +15,7 @@ App, Server, BERT QA serving 구현
 
 ### 3. 서비스 화면 
 #### 3.1 App Intro  
-![](./images/app_system.png=250x)
+<img src="./images/app_system.png" width=250>
 
 #### 3.2 App Navigation
 ![](./images/app_nav.png)
