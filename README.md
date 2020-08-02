@@ -28,6 +28,8 @@ App, Server, BERT QA serving 구현
 <img src="./images/app_mrc_result.png" width=250>
 </div>
 
+### 4. 기간
+2019.07~2019.10 
 
 ### References
 - [korQuAD-beginner](https://github.com/graykode/KorQuAD-beginner)
