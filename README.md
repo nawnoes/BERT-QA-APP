@@ -15,9 +15,8 @@ App, Server, BERT QA serving 구현
 
 ### 3. 서비스 화면 
 #### 3.1 App Intro  
-<div style="width:150px">
-![](./images/app_system.png)
-</div>
+![](./images/app_system.png=250x)
+
 #### 3.2 App Navigation
 ![](./images/app_nav.png)
 #### 3.3 BERT MRC main
