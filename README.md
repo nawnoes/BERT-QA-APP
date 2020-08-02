@@ -1,15 +1,33 @@
-# BERT_QA_Fullstack
+# BERT QA Application
 BERT QA Fullstack using React-native, node.js, tensorflow
 
 ### 1. 개요
-React-native, node.js, tensorflow, korquad를 이용해 지문과 질문이 주어졌을 때, 답변해주는 질의응답 Application.  
-App, Server, BERT 학습까지 fullstack 구현
+korquad를 이용해 지문과 질문이 주어졌을 때, 답변해주는 질의응답 Application.  
+App, Server, BERT QA serving 구현
 
 ### 2. 구조
-- Client: React-native 
-- Server: Node.js & Express with Mongoose
-- BERT serving: python, flask, 
+- App: React-native 
+- Nodejs server: Node.js & Express
+- DB: MongDB
+- servingBERT: python, flask, 
 - Data: korquad 1.0
+- etc: tensorflow
+
+### 3. 서비스 화면 
+#### 3.1 App Intro  
+![](./images/app_system.png)
+
+#### 3.2 App Navigation
+![](./images/app_nav.png)
+#### 3.3 BERT MRC main
+![](./images/app_mrc_main.png)
+#### 3.4 BERT MRC 
+서버로부터 임의의 지문과 질문 데이터를 받음.
+![](./images/app_mrc_get_data.png)
+#### 3.5 
+지문과 질문 데이터에 대한 MRC 결과 
+![](./images/app_mrc_result.png)
+
 
 ### References
 - [korQuAD-beginner](https://github.com/graykode/KorQuAD-beginner)
