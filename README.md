@@ -15,13 +15,18 @@ App, Server, BERT QA serving 구현
 
 ### 3. 서비스 화면 
 #### 3.1 App Intro   
+<div style="flex-direction: row;">
 <img src="./images/app_system.png" width=250>
 <img src="./images/app_nav.png" width=250>
+</div>
+
 
 #### 3.2 BERT MRC
+<div style="flex-direction: row;">
 <img src="./images/app_mrc_main.png" width=250>
 <img src="./images/app_mrc_get_data.png" width=250>
 <img src="./images/app_mrc_result.png" width=250>
+</div>
 
 
 ### References
